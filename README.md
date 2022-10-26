@@ -1,2 +1,4 @@
-# RepositorioADSO
-Para guardar pruebas de proyectos realizados en clases de adso
+# Esta esla documentación del proyecto
+
+Bienvenidos a mi proyecto
+Desarrollado por Jeimy Pinto
